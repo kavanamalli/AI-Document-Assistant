@@ -38,9 +38,9 @@ Users can upload PDF documents and interact with them using natural language que
 
 ## 📸 Application Screenshot
 
-Add your screenshot here:
 
-![Application Screenshot](images/app_screenshot.png)
+
+![Application Screenshot](webpage.png)
 
 ## ⚙️ Installation
 
